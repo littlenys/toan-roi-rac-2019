@@ -89,7 +89,7 @@ main()
 		DINH[nhap2[i]].con[DINH[nhap2[i]].bac]=nhap1[i];
 		DINH[nhap2[i]].bac++;
 	}
-	
+	// Bắt đầu thuật toán
 	DINH[1].mau=1;
 	for(int i=2;i <= sodinh; i++)
 	{
