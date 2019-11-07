@@ -1,4 +1,6 @@
 # toan-roi-rac-2019
+Nguyễn Thúy Hằng
+20183523
 https://github.com/LYS-SYL
 
 https://github.com/LYS-SYL/toan-roi-rac-2019/blob/master/README.md
